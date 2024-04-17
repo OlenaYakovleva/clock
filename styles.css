@@ -7,7 +7,7 @@ body {
     90deg,
     rgba(2, 0, 36, 1) 0%,
     rgba(173, 15, 120, 1) 40%,
-    rgba(0, 212, 255, 1) 72%
+    rgb(62, 228, 79) 72%
   );
   width: 100%;
   height: 100%;
@@ -17,7 +17,7 @@ body {
 .clock {
   width: 500px;
   height: 500px;
-  background-color: #f6f6f85f;
+  background-color: #eeeef47d;
   border-radius: 50%;
   position: relative;
   list-style: none;
